@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (spring2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyGame.cpp
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(56,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(63,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(94,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(215,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(221,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(226,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(226,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(242,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(248,39): warning C4244: 'argument': conversion from 'Uint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(319,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(332,39): warning C4244: 'argument': conversion from 'Uint32' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(414,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(436,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\game\MyGame.cpp(458,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  game.vcxproj -> C:\Users\hbahe\Documents\C++ Project\GFC Projects\Pinball\Debug\Pinball.exe

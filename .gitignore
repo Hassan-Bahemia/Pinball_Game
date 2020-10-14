@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+.vs/Pinball/v16/
+
+.vs/spring2/v16/
